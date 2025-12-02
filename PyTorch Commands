@@ -1,3 +1,4 @@
 COMMANDS
 
-"Shift + Enter"  Will save the code and create a new line to enter a new code.
+Control + S      Will save the code.
+Shift + Enter    Will save the code and create a new line to enter a new code.
